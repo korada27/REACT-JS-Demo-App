@@ -1,0 +1,4 @@
+.cardlayout{
+    display:flex 1; 
+    flex-direction:row;
+}
